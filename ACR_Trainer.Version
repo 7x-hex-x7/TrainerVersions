@@ -1,6 +1,6 @@
 # ACR_Trainer
-Version: [VersionBegin]1.0[VersionEnd]
-Link: [LinkBegin][LinkEnd]
-Changes: <NoChanges>
-[ChangesBegin_EN][ChangesEnd_EN]
-[ChangesBegin_RU][ChangesEnd_RU]
+Version: [VersionBegin]1.2[VersionEnd]
+Link: [LinkBegin]https://www.playground.ru/assassins_creed_revelations/cheat/assassins_creed_revelations_trejner_trainer_35_1_03_steam_uplay_upd_04_04_2022_hex-1120456[LinkEnd]
+Changes: 
+[ChangesBegin_EN]***Update: 04/04/2022***<n>-Migrated trainer from .NET Framework 4.7.2 to .NET 6. Please download .NET 6.0 Desktop Runtime x86 --> https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.3-windows-x86-installer.<n>-Fixed the "Show collectibles icons" function.[ChangesEnd_EN]
+[ChangesBegin_RU]***Обновление: 04.04.2022***<n>-Осуществлен переход трейнера с .NET Framework 4.7.2 на .NET 6. Пожалуйста, загрузите перед этим .NET 6.0 Desktop Runtime x86 --> https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.3-windows-x86-installer.<n>-Исправлена функция "Показать коллекционные предметы".[ChangesEnd_RU]
