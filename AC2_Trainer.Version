@@ -1,6 +1,6 @@
 # AC2_Trainer
-Version: [VersionBegin]1.2[VersionEnd]
-Link: [LinkBegin]https://www.playground.ru/assassins_creed_2/cheat/assassins_creed_2_trejner_22_1_01_uplay_steam_upd_22_05_2022_hex-1117873[LinkEnd]
+Version: [VersionBegin]1.3[VersionEnd]
+Link: [LinkBegin]https://www.playground.ru/assassins_creed_2/cheat/assassins_creed_2_trejner_22_1_01_uplay_steam_upd_01_06_2022_hex-1117873[LinkEnd]
 Changes: 
-[ChangesBegin_EN]***Update: 22.05.2022***<n>Please download the new version. .NET is no longer needed, trainer completely rewritten in C++.<n>Reworked the "Fast movement speed" function.[ChangesEnd_EN]
-[ChangesBegin_RU]***Обновление: 22.05.2022***<n>Пожалуйста, загрузите новую версию. .NET больше не потребуется, трейнер полностью переписан на C++.<n>-Переделана функция "Быстрая скорость перемещения".[ChangesEnd_RU]
+[ChangesBegin_EN]***Update: 06/01/2022***<n>-Fixed text display bug on high resolution monitors.<n>-General optimization of the trainer.<n><n>***Update: 22.05.2022***<n>Please download the new version. .NET is no longer needed, trainer completely rewritten in C++.<n>-Reworked the "Fast movement speed" function.[ChangesEnd_EN]
+[ChangesBegin_RU]***Обновление: 1.06.2022***<n>-Исправлена ошибка с отображением текста на мониторах высокого разрешения.<n>-Общая оптимизация трейнера.<n><n>***Обновление: 22.05.2022***<n>Пожалуйста, загрузите новую версию. .NET больше не потребуется, трейнер полностью переписан на C++.<n>-Переделана функция "Быстрая скорость перемещения".[ChangesEnd_RU]
